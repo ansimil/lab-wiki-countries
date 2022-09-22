@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.row {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.link {
+  text-decoration: none;
+  padding: 10px
+}
+
+.details {
+  width: 100vw;
+}
+
